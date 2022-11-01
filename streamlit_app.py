@@ -1,4 +1,4 @@
 import streamlit
-import requirements.txt
+import snowflake.connector
 
 streamlit.title('Hello World')
